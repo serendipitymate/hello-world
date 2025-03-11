@@ -1,5 +1,14 @@
-# hello-world
+# Header 1
 
-14 March 2021
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring web pages.
 
-this is my first time using github and i hope to figure everything out asap
+Use asterisk mark to provide emphasis, such as italics or **bold** .
+
+Create lists with a dash:
+  *  Item 1
+  *  Item 2
+  *  Item 3
+
+| Use back ticks to |
+| ------------- | 
+|  create a block of code| 
